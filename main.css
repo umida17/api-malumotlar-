@@ -18,12 +18,9 @@
     transform: scale(0.9);
 }
 
-#malumot{
-     /* width: 400px;
-     height: 300px;
-     border: 1px solid silver;
-     padding: 20px; */
-     display: flex;
-     align-items: center;
-     justify-content: space-between;
+ 
+
+#rasm{
+    width: 300px;
+    height: 300px;
 }

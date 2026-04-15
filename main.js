@@ -13,7 +13,7 @@ fetch("https://699d9b4283e60a406a46e1ba.mockapi.io/Teachers")
 function renderData(data) {
     const cards = data.map(el => `
         <div id= "malumot" key = {el.id}>
-           <img src=${el.avatar} alt="">
+           <img id= "rasm" src=${el.avatar} alt="">
            <h1>${el.name}</h1>
    </div>
         `).join("")
