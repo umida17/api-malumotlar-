@@ -18,7 +18,26 @@
     transform: scale(0.9);
 }
 
- 
+ .cinemuz-header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    box-shadow: 10px 10px 10px rgb(113, 113, 112);
+    background: rgb(171, 170, 170);
+    z-index: 999999;
+    height: 140px;    
+  color: rgb(252, 252, 252);
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+   
+}
+
+.cinemuz-header .logo {
+  font-size: 42px;
+  margin-top: 35px;
+  font-weight: bold;
+ }
 
 #rasm{
     width: 300px;
