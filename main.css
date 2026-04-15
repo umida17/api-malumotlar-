@@ -1,5 +1,8 @@
 
-
+#container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
 #input{
     width: 87%;
     padding: 10px;
@@ -13,4 +16,14 @@
 }
 #input:hover{
     transform: scale(0.9);
+}
+
+#malumot{
+     /* width: 400px;
+     height: 300px;
+     border: 1px solid silver;
+     padding: 20px; */
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
 }
