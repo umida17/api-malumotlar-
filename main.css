@@ -1,0 +1,16 @@
+
+
+#input{
+    width: 87%;
+    padding: 10px;
+    margin-top: 50px;
+    border-radius: 8px;
+    border-color: cadetblue;
+    box-shadow: 3px 3px 3px 3px cadetblue;
+    margin-bottom: 40px;
+    transition: all 0.7s ease-in-out;
+    margin-top: 190px;
+}
+#input:hover{
+    transform: scale(0.9);
+}
