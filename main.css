@@ -30,7 +30,7 @@
   color: rgb(252, 252, 252);
   text-align: center;
   font-family: 'Playfair Display', serif;
-   
+    
 }
 
 .cinemuz-header .logo {
@@ -42,4 +42,5 @@
 #rasm{
     width: 300px;
     height: 300px;
+    margin-top: 500px;
 }
