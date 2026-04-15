@@ -30,4 +30,4 @@ searchInput.addEventListener("input", function(e) {
   );
   renderUser(filterData)
 })
-renderUser(datas)
+  
