@@ -30,3 +30,5 @@ searchInput.addEventListener("input", function(e) {
 
     renderData(filterData); 
 });
+
+
