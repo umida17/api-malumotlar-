@@ -1,14 +1,14 @@
 
-#container{
+#wrapper{
     max-width: 1200px;
     margin: 0 auto;
     
 }
-#wrapper{
+#container{
      display: flex;
     align-items: center;
     flex-wrap: wrap;
-}
+ }
 
 #malumot{
     width: 300px;
