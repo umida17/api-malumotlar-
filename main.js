@@ -1,7 +1,7 @@
 const wrapper = document.getElementById("container");
 let searchInput = document.getElementById("input");
 
-let datas = []; // 🔥 global saqlash
+let datas = []; 
 
 fetch("https://699d9b4283e60a406a46e1ba.mockapi.io/Teachers")
 .then(response => response.json())
