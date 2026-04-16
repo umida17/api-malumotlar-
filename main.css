@@ -22,7 +22,7 @@
     box-shadow: 3px 3px 3px 3px cadetblue;
     margin-bottom: 50px;
     transition: all 0.7s ease-in-out;
-   
+
 }
 #searchInput:hover{
     transform: scale(0.9);
