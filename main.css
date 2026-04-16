@@ -29,9 +29,8 @@
 
 }
 #searchInput:hover{
-    transform: scale(0.9);
+    transform: scale(1.1);
 }
-
  .cinemuz-header {
     position: fixed;
     left: 0;
