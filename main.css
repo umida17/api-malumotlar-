@@ -16,12 +16,12 @@
 #searchInput{
     width: 87%;
     padding: 10px;
-    margin-top: 150px;
     border-radius: 8px;
     border-color: cadetblue;
     box-shadow: 3px 3px 3px 3px cadetblue;
-    margin-bottom: 50px;
-    transition: all 0.7s ease-in-out;
+     transition: all 0.7s ease-in-out;
+    margin-top: 150px;
+     margin-bottom: 50px;
 
 }
 #searchInput:hover{
