@@ -23,11 +23,11 @@ function renderData(data) {
 
 
 
-// searchInput.addEventListener("input", function(e) {
-//    let malumot = e.target.value.toLowerCase();
-//   const filterData = datas.filter(user => 
-//     user.title.toLowerCase().includes(malumot)
-//   );
-//   renderUser(filterData)
-// })
+searchInput.addEventListener("input", function(e) {
+   let malumot = e.target.value.toLowerCase();
+  const filterData = datas.filter(user => 
+    user.title.toLowerCase().includes(malumot)
+  );
+  renderUser(filterData)
+})
   
