@@ -22,10 +22,10 @@ function renderData(data) {
 }
 
 searchInput.addEventListener("input", function(e) {
-    let malumot = e.target.value.toLowerCase();
+    let malumotlar= e.target.value.toLowerCase();
 
     const filterData = datas.filter(user => 
-        user.name.toLowerCase().includes(malumot)
+        user.name.toLowerCase().includes(malumotlar)
     );
 
     renderData(filterData); 
